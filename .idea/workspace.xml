@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6f5b5ce-fcaa-41f4-90c9-2f18c67b9a89" name="Changes" comment="">
+    <list default="true" id="f6f5b5ce-fcaa-41f4-90c9-2f18c67b9a89" name="Changes" comment="error correction">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework1/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +34,8 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/timof/IdeaProjects/LessonsJS&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,8 +47,25 @@
       <option name="presentableId" value="Default" />
       <updated>1667288963861</updated>
       <workItem from="1667288965506" duration="6599000" />
-      <workItem from="1667295845925" duration="709000" />
+      <workItem from="1667295845925" duration="1044000" />
+      <workItem from="1667296963873" duration="3000" />
+      <workItem from="1667299860858" duration="1917000" />
+      <workItem from="1667314259244" duration="44000" />
+      <workItem from="1667314478904" duration="57000" />
+      <workItem from="1667317134185" duration="18000" />
+      <workItem from="1667318169066" duration="602000" />
+      <workItem from="1667389015447" duration="914000" />
+      <workItem from="1667418799644" duration="4390000" />
+      <workItem from="1667466652576" duration="4024000" />
     </task>
+    <task id="LOCAL-00001" summary="error correction">
+      <created>1667296686996</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667296686996</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="error correction" />
+    <option name="LAST_COMMIT_MESSAGE" value="error correction" />
   </component>
 </project>
