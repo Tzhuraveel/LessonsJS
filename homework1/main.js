@@ -58,12 +58,13 @@ console.log(typeof b);
 let c = true;
 console.log(typeof c);
 
-/*----------------*/
+/*--------------------*/
 
 let name1 = prompt('Are you sure ' + firstName);
 let name2 = prompt('Are you absolute sure ' + middleName);
 let name3 = prompt('Are you trust me ' + lastName);
 console.log(name1, name2, name3);
+
 
 
 
