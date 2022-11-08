@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6f5b5ce-fcaa-41f4-90c9-2f18c67b9a89" name="Changes" comment="Add homework2" />
+    <list default="true" id="f6f5b5ce-fcaa-41f4-90c9-2f18c67b9a89" name="Changes" comment="error correction">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework3/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,8 +36,10 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/timof/IdeaProjects/LessonsJS&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/timof/IdeaProjects/LessonsJS&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -53,7 +60,13 @@
       <workItem from="1667318169066" duration="602000" />
       <workItem from="1667389015447" duration="914000" />
       <workItem from="1667418799644" duration="4390000" />
-      <workItem from="1667466652576" duration="4505000" />
+      <workItem from="1667466652576" duration="4603000" />
+      <workItem from="1667478871145" duration="960000" />
+      <workItem from="1667848953542" duration="1693000" />
+      <workItem from="1667854506395" duration="2617000" />
+      <workItem from="1667890158744" duration="1278000" />
+      <workItem from="1667901492184" duration="11218000" />
+      <workItem from="1667923992980" duration="1573000" />
     </task>
     <task id="LOCAL-00001" summary="error correction">
       <created>1667296686996</created>
@@ -69,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667470863274</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="error correction">
+      <created>1667471247365</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667471247365</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,8 +107,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="error correction" />
     <MESSAGE value="Add homework2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add homework2" />
+    <MESSAGE value="error correction" />
+    <option name="LAST_COMMIT_MESSAGE" value="error correction" />
   </component>
 </project>
