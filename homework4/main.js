@@ -157,7 +157,7 @@ for (i = 0; i < users.length; i++){
 document.write('--------------------------------------')
 
 for (i = 0; i < users.length; i++){
-    if(users[i].age >= 30) {
+    if(!users[i].status) {
         document.write(`
            <div class="block-for-all-users">
               <h3 class="h3">
@@ -169,10 +169,8 @@ for (i = 0; i < users.length; i++){
 }
 
 document.write('--------------------------------------')
-
-
 for (i = 0; i < users.length; i++){
-    if(!users[i].status) {
+    if(users[i].age >= 30) {
         document.write(`
            <div class="block-for-all-users">
               <h3 class="h3">
