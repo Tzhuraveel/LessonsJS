@@ -39,7 +39,7 @@ if (a3 !== 0) {
 // // попадає число (в першу, другу, третю или четверту частину години).
 //
 
-let time = 45;
+let time = -45;
 if (time < 0) {
     console.log('What are you mean?')
 } else if (time <= 15) {
@@ -51,7 +51,7 @@ if (time < 0) {
 } else if (time <= 59) {
     console.log(4)
 } else {
-    console.log('What are you mean?')
+    console.log('Hey?')
 }
 //
 // // - У змінній day дано якесь число від 1 до 31. Потрібно визначити, у яку половину(декаду) місяця потрапляє це число
