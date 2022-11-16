@@ -126,7 +126,7 @@ function smallestNum(num){
     console.log(num[0])
     return num[0]
 }
-let hello = num[0] + 3
+
 
 
 let numbers = [2341, 534, 678, 250, 234];
