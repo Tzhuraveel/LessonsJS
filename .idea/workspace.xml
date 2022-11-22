@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6f5b5ce-fcaa-41f4-90c9-2f18c67b9a89" name="Changes" comment="additional1">
-      <change afterPath="$PROJECT_DIR$/additional/additional-Lessons5/additional2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/additional-Lessons5/additional2/main.js" afterDir="false" />
+    <list default="true" id="f6f5b5ce-fcaa-41f4-90c9-2f18c67b9a89" name="Changes" comment="additional2">
+      <change afterPath="$PROJECT_DIR$/homework6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework6/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,6 +106,9 @@
       <workItem from="1668793270470" duration="2165000" />
       <workItem from="1668841108763" duration="5118000" />
       <workItem from="1668856053547" duration="1211000" />
+      <workItem from="1669100365376" duration="938000" />
+      <workItem from="1669101317220" duration="10575000" />
+      <workItem from="1669128225407" duration="13398000" />
     </task>
     <task id="LOCAL-00001" summary="error correction">
       <created>1667296686996</created>
@@ -177,7 +180,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668794298257</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="additional1">
+      <created>1669100400031</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669100400031</updated>
+    </task>
+    <task id="LOCAL-00012" summary="additional2">
+      <created>1669100478727</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1669100478728</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,9 +216,9 @@
     <MESSAGE value="error correction" />
     <MESSAGE value="homework 4" />
     <MESSAGE value="homework4" />
-    <MESSAGE value="additional2" />
     <MESSAGE value="homework5" />
     <MESSAGE value="additional1" />
-    <option name="LAST_COMMIT_MESSAGE" value="additional1" />
+    <MESSAGE value="additional2" />
+    <option name="LAST_COMMIT_MESSAGE" value="additional2" />
   </component>
 </project>
