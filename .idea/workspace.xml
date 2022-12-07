@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6f5b5ce-fcaa-41f4-90c9-2f18c67b9a89" name="Changes" comment="additional2">
-      <change afterPath="$PROJECT_DIR$/homework6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework6/main.js" afterDir="false" />
+    <list default="true" id="f6f5b5ce-fcaa-41f4-90c9-2f18c67b9a89" name="Changes" comment="homework6">
+      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson6/additional1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson6/additional1/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson6/additional2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson6/additional2/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson6/additional3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson6/additional3/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework8/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional/additional-Lessons5/additional1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/additional/additional-Lesson5/additional1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional/additional-Lessons5/additional1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/additional/additional-Lesson5/additional1/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional/additional-Lessons5/additional2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/additional/additional-Lesson5/additional2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional/additional-Lessons5/additional2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/additional/additional-Lesson5/additional2/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +33,6 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="autoscrollToSource" value="true" />
   </component>
   <component name="ProjectId" id="2Gw9pWSswPrtnIiqz35TdwAvQwx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -108,7 +115,34 @@
       <workItem from="1668856053547" duration="1211000" />
       <workItem from="1669100365376" duration="938000" />
       <workItem from="1669101317220" duration="10575000" />
-      <workItem from="1669128225407" duration="13398000" />
+      <workItem from="1669128225407" duration="14964000" />
+      <workItem from="1669143659264" duration="14000" />
+      <workItem from="1669202746668" duration="3116000" />
+      <workItem from="1669214328595" duration="6647000" />
+      <workItem from="1669223979411" duration="3361000" />
+      <workItem from="1669310655251" duration="3136000" />
+      <workItem from="1669389813083" duration="96000" />
+      <workItem from="1669401945535" duration="807000" />
+      <workItem from="1669463094735" duration="9238000" />
+      <workItem from="1669621653788" duration="10815000" />
+      <workItem from="1669671839981" duration="4488000" />
+      <workItem from="1669701832794" duration="7809000" />
+      <workItem from="1669735763204" duration="2212000" />
+      <workItem from="1669738447116" duration="10157000" />
+      <workItem from="1669756572370" duration="4914000" />
+      <workItem from="1669813361172" duration="7550000" />
+      <workItem from="1669887429757" duration="15192000" />
+      <workItem from="1669907912746" duration="444000" />
+      <workItem from="1669965964237" duration="3243000" />
+      <workItem from="1669994977700" duration="3077000" />
+      <workItem from="1670013501711" duration="7233000" />
+      <workItem from="1670068328460" duration="2773000" />
+      <workItem from="1670155742878" duration="634000" />
+      <workItem from="1670226969840" duration="1041000" />
+      <workItem from="1670229918149" duration="333000" />
+      <workItem from="1670340160107" duration="2191000" />
+      <workItem from="1670357126774" duration="11309000" />
+      <workItem from="1670394238310" duration="545000" />
     </task>
     <task id="LOCAL-00001" summary="error correction">
       <created>1667296686996</created>
@@ -194,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669100478728</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="homework6">
+      <created>1669141765250</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669141765250</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +260,7 @@
     <MESSAGE value="homework5" />
     <MESSAGE value="additional1" />
     <MESSAGE value="additional2" />
-    <option name="LAST_COMMIT_MESSAGE" value="additional2" />
+    <MESSAGE value="homework6" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework6" />
   </component>
 </project>
