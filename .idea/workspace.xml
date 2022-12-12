@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6f5b5ce-fcaa-41f4-90c9-2f18c67b9a89" name="Changes" comment="homework9">
-      <change afterPath="$PROJECT_DIR$/additional/aditional-Lesson/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/aditional-Lesson/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/aditional-Lesson/style.css" afterDir="false" />
+    <list default="true" id="f6f5b5ce-fcaa-41f4-90c9-2f18c67b9a89" name="Changes" comment="additional9">
+      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson8/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson8/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson9(1)/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson9(1)/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson9(1)/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -153,7 +156,8 @@
       <workItem from="1670760156209" duration="4374000" />
       <workItem from="1670764576355" duration="99000" />
       <workItem from="1670830468815" duration="443000" />
-      <workItem from="1670830934102" duration="6302000" />
+      <workItem from="1670830934102" duration="9950000" />
+      <workItem from="1670840970258" duration="1912000" />
     </task>
     <task id="LOCAL-00001" summary="error correction">
       <created>1667296686996</created>
@@ -260,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670680316428</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="additional9">
+      <created>1670837357802</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1670837357802</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,6 +299,7 @@
     <MESSAGE value="homework6" />
     <MESSAGE value="homework8" />
     <MESSAGE value="homework9" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework9" />
+    <MESSAGE value="additional9" />
+    <option name="LAST_COMMIT_MESSAGE" value="additional9" />
   </component>
 </project>
