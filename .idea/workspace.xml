@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6f5b5ce-fcaa-41f4-90c9-2f18c67b9a89" name="Changes" comment="additional9">
-      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson8/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson8/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson9(1)/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson9(1)/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson9(1)/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson9(2)/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson9(2)/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework10/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework10/user-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework10/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework10/users.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -158,6 +158,12 @@
       <workItem from="1670830468815" duration="443000" />
       <workItem from="1670830934102" duration="9950000" />
       <workItem from="1670840970258" duration="1912000" />
+      <workItem from="1670873879335" duration="159000" />
+      <workItem from="1670874136974" duration="6857000" />
+      <workItem from="1670959864099" duration="1135000" />
+      <workItem from="1670961044069" duration="2534000" />
+      <workItem from="1671090679239" duration="11303000" />
+      <workItem from="1671131431574" duration="3175000" />
     </task>
     <task id="LOCAL-00001" summary="error correction">
       <created>1667296686996</created>
@@ -271,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670837357802</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="additional9">
+      <created>1670874000503</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1670874000504</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
