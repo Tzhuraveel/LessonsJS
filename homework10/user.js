@@ -25,22 +25,5 @@ fetch(`https://jsonplaceholder.typicode.com/users/${id}`)
 
 
 
-//
-// function foo(key) {
-
-//     for (const keyKey in key) {
-//         if (typeof key[keyKey] === "object") {
-//             foo(key[keyKey])
-//         }
-//         let li = document.createElement('li');
-//         li.innerText = `${key[keyKey]}`
-//         ul.appendChild(li)
-//
-//     }
-//
-// }
-//
-// foo(keyIn)
-//
 
 
