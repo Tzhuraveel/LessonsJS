@@ -1,0 +1,13 @@
+.form{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    width: 200px;
+    margin-top: 20px;
+}
+.link-button{
+    width: 100px;
+    height: 30px;
+    margin-top: 20px;
+}

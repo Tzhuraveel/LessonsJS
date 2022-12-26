@@ -1,0 +1,129 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+}
+button {
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+}
+.gn-contain{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2b2b2c;
+    height: 100vh;
+}
+.container{
+    min-height: 800px;
+    width: 1200px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 2px 1px 20px 1px #285b5b;
+    background: #336565;
+}
+.wrapperDiv{
+    width: 1150px;
+    min-height: 600px;
+    background-color: silver;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.inside-wrap{
+    width: 40%;
+    height: 600px;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.button-post:hover{
+    background-color: #a5a1a1;
+}
+.button-post:active {
+    top: 2px;
+}
+.posts-button{
+    background-color: #a5a1a1;
+    width: 140px;
+    height: 40px;
+    margin-top: 30px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    position: relative;
+    transition: 300ms;
+}
+.posts-button:active{
+    top: 2px;
+}
+.posts-button:hover{
+    width: 160px;
+    background-color: #877e7e;
+}
+.user-father-obj{
+    background-color: #9c9696;
+    border-radius: 10px;
+}
+.user-children-obj{
+    background-color: #877e7e;
+    border-radius: 10px;
+
+}
+.posts{
+    width: 60%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.post{
+    background-color: #336565;
+    padding: 10px;
+    border-radius: 10px;
+    min-height: 440px;
+    width: 90%;
+    margin-bottom: 10px;
+    box-shadow: 1px 1px 4px 1px;
+}
+.post-element{
+    margin: 8px;
+    font-size: 20px;
+    background-color: #9c9696;
+    padding: 5px;
+    border-radius: 3px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.user-info{
+    margin: 5px;
+}
+.link-button-post{
+    color: #2b2b2c;
+    width: 50px;
+    border-radius: 4px;
+    height: 20px;
+    background-color: #877e7e;
+    position: relative;
+    text-transform: uppercase;
+    font-size: 16px;
+    transition: 0.2s;
+}
+.link-button-post:hover{
+    background-color: #797373;
+}
+.link-button-post:active{
+    top: 2px;
+}

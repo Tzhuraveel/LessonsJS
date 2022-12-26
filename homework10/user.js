@@ -23,7 +23,3 @@ fetch(`https://jsonplaceholder.typicode.com/users/${id}`)
         foo(userInfo)
     });
 
-
-
-
-

@@ -1,0 +1,10 @@
+.button{
+    margin-left: 20px;
+    width: 30px;
+    height: 10px;
+    text-align: center;
+}
+.target{
+    background-color: cadetblue;
+    border-radius: 10px;
+}
