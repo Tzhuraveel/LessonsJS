@@ -1,28 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6f5b5ce-fcaa-41f4-90c9-2f18c67b9a89" name="Changes" comment="homework10">
-      <change afterPath="$PROJECT_DIR$/EventLoop/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EventLoop/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson10/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson10/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/additional-Lesson10/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/additional-kminV/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/additional-kminV/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/additional12/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/additional12/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/additional12/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-project/general/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-project/general/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-project/general/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-project/post details/post-details.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-project/post details/post-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-project/post details/post-details.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-project/user details/user-details.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-project/user details/user-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-project/user details/user.js" afterDir="false" />
+    <list default="true" id="f6f5b5ce-fcaa-41f4-90c9-2f18c67b9a89" name="Changes" comment="additional-recursion">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/additional10-recursion/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/additional10-recursion/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/additional10-recursion/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/additional12/Store/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/additional12/Store/list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/additional12/Store/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/tasks2-additonal/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional/tasks2-additonal/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mySQL/homework-mySQL(1)/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework10/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework10/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional/additional-Lesson8/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/additional/additional-Lesson8/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional/additional-kminV/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/additional/additional-kminV/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional/additional12/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/additional/additional12/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini-project/post details/post-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/mini-project/post details/post-details.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,14 +54,21 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;js.last.introduce.type&quot;: &quot;CONST&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/timof/IdeaProjects/LessonsJS&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/timof/Desktop/PhotoSlider-main&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;,
+      &quot;mongo&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\timof\IdeaProjects\LessonsJS\additional\additional12\Store" />
       <recent name="C:\Users\timof\IdeaProjects\LessonsJS\mini-project\general" />
       <recent name="C:\Users\timof\IdeaProjects\LessonsJS\additional\additional-Lessons5\additional1" />
     </key>
@@ -218,7 +219,59 @@
       <workItem from="1671882599885" duration="111000" />
       <workItem from="1671883023472" duration="394000" />
       <workItem from="1672040311199" duration="4235000" />
-      <workItem from="1672045491633" duration="3285000" />
+      <workItem from="1672045491633" duration="7009000" />
+      <workItem from="1672052562300" duration="3326000" />
+      <workItem from="1672055922215" duration="6433000" />
+      <workItem from="1672063910093" duration="29000" />
+      <workItem from="1672082773360" duration="564000" />
+      <workItem from="1672086991310" duration="3966000" />
+      <workItem from="1672127774837" duration="6168000" />
+      <workItem from="1672137530067" duration="152000" />
+      <workItem from="1672138209140" duration="62000" />
+      <workItem from="1672170778014" duration="4017000" />
+      <workItem from="1672225565566" duration="1674000" />
+      <workItem from="1672238378331" duration="3065000" />
+      <workItem from="1672242267392" duration="453000" />
+      <workItem from="1672242729781" duration="1045000" />
+      <workItem from="1672247739013" duration="344000" />
+      <workItem from="1672251645931" duration="1779000" />
+      <workItem from="1672299076136" duration="3847000" />
+      <workItem from="1672303965831" duration="740000" />
+      <workItem from="1672305109202" duration="470000" />
+      <workItem from="1672324380989" duration="691000" />
+      <workItem from="1672341265883" duration="6967000" />
+      <workItem from="1672381589727" duration="6911000" />
+      <workItem from="1672389848754" duration="9000" />
+      <workItem from="1672396317315" duration="198000" />
+      <workItem from="1672396962979" duration="228000" />
+      <workItem from="1672417628546" duration="47000" />
+      <workItem from="1672417718061" duration="178000" />
+      <workItem from="1672423485343" duration="1121000" />
+      <workItem from="1672650010527" duration="62000" />
+      <workItem from="1672686577723" duration="7446000" />
+      <workItem from="1672695107849" duration="106000" />
+      <workItem from="1672695778796" duration="204000" />
+      <workItem from="1672730256056" duration="6035000" />
+      <workItem from="1672736463907" duration="646000" />
+      <workItem from="1672752773684" duration="1000" />
+      <workItem from="1672776964872" duration="493000" />
+      <workItem from="1672904192425" duration="20910000" />
+      <workItem from="1672928217336" duration="325000" />
+      <workItem from="1672930295781" duration="51000" />
+      <workItem from="1672930723694" duration="227000" />
+      <workItem from="1672993283039" duration="330000" />
+      <workItem from="1672993877903" duration="6105000" />
+      <workItem from="1673004350589" duration="18000" />
+      <workItem from="1673005766511" duration="45000" />
+      <workItem from="1673028887590" duration="594000" />
+      <workItem from="1673168513890" duration="21000" />
+      <workItem from="1673177087097" duration="728000" />
+      <workItem from="1673247408515" duration="31000" />
+      <workItem from="1673342634715" duration="1341000" />
+      <workItem from="1673361450741" duration="2977000" />
+      <workItem from="1673367653335" duration="50000" />
+      <workItem from="1673508768985" duration="129000" />
+      <workItem from="1673696553064" duration="10970000" />
     </task>
     <task id="LOCAL-00001" summary="error correction">
       <created>1667296686996</created>
@@ -353,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671135763266</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="mini-project">
+      <created>1672049053861</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1672049053861</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -383,6 +443,8 @@
     <MESSAGE value="homework9" />
     <MESSAGE value="additional9" />
     <MESSAGE value="homework10" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework10" />
+    <MESSAGE value="mini-project" />
+    <MESSAGE value="additional-recursion" />
+    <option name="LAST_COMMIT_MESSAGE" value="additional-recursion" />
   </component>
 </project>
